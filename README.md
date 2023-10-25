@@ -6,5 +6,6 @@
 
 - 🤓 Focus on ![JavaScript](https://img.shields.io/badge/JavaScript-Node-green).
 - 🏠 Blog at [savokiss.com](https://savokiss.com).
+- ⭐️ English Blog at [blog.detools.dev](https://blog.detools.dev)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=savokiss)
