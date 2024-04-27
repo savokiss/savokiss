@@ -8,5 +8,6 @@
 - 🏠 Blog at [savokiss.com](https://savokiss.com).
 - ⭐️ English Blog at [blog.detools.dev](https://blog.detools.dev)
 - 🤖 Building GPTs site <a href="https://mygpts.dev" target="_blank">MyGPTs</a>
+- 👻 Building AI Navi site <a href="https://dokeyai.com" target="_blank">DokeyAI</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=savokiss)
