@@ -7,7 +7,7 @@
 - 🤓 Focus on ![JavaScript](https://img.shields.io/badge/JavaScript-Node-green).
 - 🏠 Blog at [savokiss.com](https://savokiss.com).
 - ⭐️ English Blog at [blog.detools.dev](https://blog.detools.dev)
-- 🤖 Building GPTs site <a href="https://mygpts.dev" target="_blank">MyGPTs</a>
-- 👻 Building AI Navi site <a href="https://dokeyai.com" target="_blank">DokeyAI</a>
+- 🤖 Building GPTs site <a href="https://mygpts.dev?utm_source=github" target="_blank">MyGPTs</a>
+- 👻 Building AI Navi site <a href="https://dokeyai.com?utm_source=github" target="_blank">DokeyAI</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=savokiss)
