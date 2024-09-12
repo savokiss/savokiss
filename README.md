@@ -8,6 +8,7 @@
 - 🏠 Blog at [savokiss.com](https://savokiss.com).
 - ⭐️ English Blog at [blog.detools.dev](https://blog.detools.dev)
 - 🍱 Bento at [bento.me/savokiss](https://bento.me/savokiss)
+- 🎄 LinkTree at [linktr.ee/savokiss](https://linktr.ee/savokiss)
 - 🤖 Building Flux AI site <a href="https://fluxai.pro?utm_source=github" target="_blank" rel="dofollow">FluxAI Pro</a>
 - 👻 Building AI Navi site <a href="https://dokeyai.com?utm_source=github" target="_blank">DokeyAI</a>
 
