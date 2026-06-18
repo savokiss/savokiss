@@ -7,7 +7,6 @@
 - 🤓 Focus on ![JavaScript](https://img.shields.io/badge/JavaScript-Node-green).
 - 🏠 Blog at [savokiss.com](https://savokiss.com).
 - ⭐️ English Blog at [blog.detools.dev](https://blog.detools.dev)
-- 🍱 Bento at [bento.me/savokiss](https://bento.me/savokiss)
 - 🎄 LinkTree at [linktr.ee/savokiss](https://linktr.ee/savokiss)
 - 😋 HeyLink at [heylink.me/savokiss](https://heylink.me/savokiss)
 - 📮 BioSite at [bio.site/savokiss](https://bio.site/savokiss)
