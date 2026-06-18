@@ -11,7 +11,7 @@
 - 🎄 LinkTree at [linktr.ee/savokiss](https://linktr.ee/savokiss)
 - 😋 HeyLink at [heylink.me/savokiss](https://heylink.me/savokiss)
 - 📮 BioSite at [bio.site/savokiss](https://bio.site/savokiss)
-- 🤖 Building Flux AI site <a href="https://fluxai.pro?utm_source=github" target="_blank" rel="dofollow">FluxAI Pro</a>
+- 🤖 Building Song AI site <a href="https://songai.io?utm_source=github" target="_blank" rel="dofollow">Song AI</a>
 - 👻 Building AI Navi site <a href="https://dokeyai.com?utm_source=github" target="_blank">DokeyAI</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=savokiss)
